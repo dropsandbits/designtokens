@@ -63,8 +63,12 @@
     }
   },
   "Medium": {
-    "value": 32,
+    "value": 16,
     "type": "spacing",
     "description": "Double Sized base 8"
+  },
+  "Small": {
+    "value": 8,
+    "type": "spacing"
   }
 }

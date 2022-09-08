@@ -1,17 +1,17 @@
 /**
  * Do not edit directly
- * Generated on Thu, 08 Sep 2022 11:59:02 GMT
+ * Generated on Thu, 08 Sep 2022 12:02:45 GMT
  */
 
 :root {
   --token-set-order-0: global;
-  --miti-green: #13AE70;
-  --miti-yellow: #FFC400;
-  --miti-deepgrey: #2A2A37;
-  --miti-darkgrey: #3D3D49;
-  --miti-productblue: #BCE2DE;
-  --miti-productyellow: #FFECB8;
-  --miti-productred: #FFE9F2;
-  --miti-productpurple: #D9E2F2;
-  --miti-grey: #C6C7C9;
+  --miticolours-green: #13AE70;
+  --miticolours-yellow: #FFC400;
+  --miticolours-deepgrey: #2A2A37;
+  --miticolours-darkgrey: #3D3D49;
+  --miticolours-productblue: #BCE2DE;
+  --miticolours-productyellow: #FFECB8;
+  --miticolours-productred: #FFE9F2;
+  --miticolours-productpurple: #D9E2F2;
+  --miticolours-grey: #C6C7C9;
 }

@@ -1,44 +1,50 @@
 {
-  "colors": {
-    "red": {
-      "300": {
-        "value": "#FCA5A5",
-        "type": "color"
-      },
-      "500": {
-        "value": "#EF4444",
-        "type": "color"
-      },
-      "700": {
-        "value": "#B91C1C",
-        "type": "color"
-      }
-    },
-    "black": {
-      "value": "#000000",
-      "type": "color"
-    },
-    "white": {
-      "value": "#ffffff",
-      "type": "color"
+  "tokenSetOrder": {
+    "0": {
+      "value": "global",
+      "type": "other"
     }
   },
-  "spacing": {
-    "sm": {
-      "value": 4,
-      "type": "spacing"
+  "miti": {
+    "green": {
+      "value": "#13AE70",
+      "type": "color",
+      "description": "The Mitigram base brand green"
     },
-    "md": {
-      "value": 8,
-      "type": "spacing"
+    "yellow": {
+      "value": "#FFC400",
+      "type": "color",
+      "description": "Mitigram base brand yellow"
     },
-    "lg": {
-      "value": 16,
-      "type": "spacing"
+    "deepgrey": {
+      "value": "#2A2A37",
+      "type": "color",
+      "description": "Mitigram Base braqnd Deep Grey"
     },
-    "xl": {
-      "value": 32,
-      "type": "spacing"
+    "darkgrey": {
+      "value": "#3D3D49",
+      "type": "color",
+      "description": "Mitigram base brand dark grey"
+    },
+    "productblue": {
+      "value": "#BCE2DE",
+      "type": "color",
+      "description": "Blue product color"
+    },
+    "productyellow": {
+      "value": "#FFECB8",
+      "type": "color",
+      "description": "Product yellow"
+    },
+    "productred": {
+      "value": "#FFE9F2",
+      "type": "color",
+      "description": "Product red"
+    },
+    "productpurple": {
+      "value": "#D9E2F2",
+      "type": "color",
+      "description": "Product purple"
     }
   }
 }

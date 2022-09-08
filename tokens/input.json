@@ -61,5 +61,16 @@
       "type": "color",
       "description": "Mitigram brand color LightGrey"
     }
+  },
+  "Medium": {
+    "value": 32,
+    "type": "spacing",
+    "description": "Double Sized base 8"
+  },
+  "testcolor": {
+    "PurpleTest": {
+      "value": "#5FFFF0",
+      "type": "color"
+    }
   }
 }

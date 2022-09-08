@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 08 Sep 2022 12:03:53 GMT
+ * Generated on Thu, 08 Sep 2022 12:25:36 GMT
  */
 
 :root {
@@ -13,5 +13,7 @@
   --miticolor-productyellow: #FFECB8;
   --miticolor-productred: #FFE9F2;
   --miticolor-productpurple: #D9E2F2;
-  --miticolor-grey: #C6C7C9;
+  --miticolor-normalgrey: #C6C7C9;
+  --miticolor-midgrey: #DFE0E2;
+  --miticolor-lightgrey: #F0F1F2;
 }

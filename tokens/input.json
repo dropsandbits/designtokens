@@ -69,6 +69,7 @@
   },
   "Small": {
     "value": 8,
-    "type": "spacing"
+    "type": "spacing",
+    "description": "Double Sized base 16"
   }
 }
